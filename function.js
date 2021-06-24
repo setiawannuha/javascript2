@@ -31,3 +31,4 @@ const rataRata = (n1, n2, n3) => {
 }
 
 rataRata(nilai.mtk, nilai.ipa, nilai.ind)
+
